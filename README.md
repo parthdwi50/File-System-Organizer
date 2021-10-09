@@ -8,7 +8,8 @@ Node.js for running JavaScript. You can find instructions on how to download and
 
 Once you have installed node.js, 
 
-***[Download](https://github.com/parthdwi50/File-System-Organizer/archive/refs/heads/main.zip) this repository***
+***[Download](https://github.com/parthdwi50/File-System-Organizer/archive/refs/heads/main.zip) this repository.*** <br />
+***After downloading the repository extract the zip file.***
 
 ## Install dependencies (CMD):
 
@@ -16,12 +17,12 @@ Once you have installed node.js,
 
 ## Commands for File System Organizer:
 
-1. `pdfile help` (for help)
+1. `pdfile help` 
 
-2. `pdfile organize directoryPath`
+2. `pdfile organize "directoryPath"` <br />
 example: `pdfile organize Downloads` ----> (will organize all files of downloads folder into a new folder "organized_files", and further into sub-folders related to the extention of the file)
 
-3. `pdfile tree directoryPath`
-example; `pdfile tree Downloads` ----> (will give a tree format/structure of all the files in the folder) 
+3. `pdfile tree "directoryPath"` <br />
+example: `pdfile tree Downloads` ----> (will give a tree format/structure of all the files in the folder) 
 
 *All commands to be run in CMD/terminal.*
