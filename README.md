@@ -25,4 +25,4 @@ example: `pdfile organize Downloads` ----> (will organize all files of downloads
 3. `pdfile tree "directoryPath"` <br />
 example: `pdfile tree Downloads` ----> (will give a tree format/structure of all the files in the folder) 
 
-*All commands to be run in CMD/terminal.*
+*All commands to be run in Command Prompt.*
